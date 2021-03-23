@@ -6,6 +6,7 @@ import crapsResources_rc
 from PyQt5 import QtGui, uic
 from PyQt5.QtWidgets import QMainWindow, QApplication
 
+# You are missing the game play for the second roll and the loss count on the UI
 
 class Craps(QMainWindow):
     """A game of Craps."""
