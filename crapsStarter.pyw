@@ -21,6 +21,7 @@ numberOfWinsDefault = 0
 currentBetDefault = 1
 currentBankDefault = 999
 
+# You are missing the game play for the second roll and the loss count on the UI
 
 class Craps(QMainWindow):
     """A game of Craps."""
